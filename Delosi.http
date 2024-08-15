@@ -1,0 +1,6 @@
+@Delosi_HostAddress = http://localhost:5255
+
+GET {{Delosi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
